@@ -1,0 +1,26 @@
+Base command:
+===============================
+git init
+git add
+git add .
+git add -*.*
+git commit -m "msg"
+git status
+git log
+git log --oneline
+git diff
+git diff --cached
+git branch
+git checkout -b *
+==========================================
+git remote add origin 'SSH link'
+git push origin *
+git pull origin *
+{
+==============================================
+1.Press i to enter insert mode.
+2.Now you can type your message, as if you were in a normal (non-modal) text editor.
+3.Press esc to go back to command mode.
+4.Then type :w followed by enter to save.
+5.Finally :q followed by enter to quit.
+}
